@@ -1,3 +1,3 @@
-I do not use git for my own projects (my own projects are using Fossil, and discussions are done using IRC and NNTP). (It is OK if anyone wishes to make mirrors on my projects on GitHub, but you should be aware that GitHub will not be used as the main repository for those projects, and collaborations are mainly done outside of GitHub for my projects.)
+I mostly use fossil for my projects rather than git. However, some of them are mirrored on GitHub. You are free to use the mirrors or the originals, and you may contribute to either of them.
 
-The reason that I have set up a GitHub account is in order to contribute to issues and discussions on other projects that do use GitHub.
+I also have a NNTP server which may be usable for discussion of these projects.
